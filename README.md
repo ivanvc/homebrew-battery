@@ -9,8 +9,12 @@ You have to add this repository as a `tap` in homebrew,
 
     brew tap Goles/battery
 
-After that you can just install battery (and keep it updated) using
+After that you can just run battery!
 
-    brew install battery
+    battery
+
+You should see something like:
+
+![Another Awesome Pic](https://a248.e.akamai.net/camo.github.com/cf8477fd3f5029aa97a3cb040472ee747fd15262/687474703a2f2f692e696d6775722e636f6d2f534c5342672e706e67)
 
 Let me know if you have any suggestions!
