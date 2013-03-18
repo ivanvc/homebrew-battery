@@ -7,7 +7,7 @@ This is the homebrew formula for the [Battery project](http://www.github.com/gol
 
 You have to add this repository as a `tap` in homebrew, 
 
-    brew tap goles/battery
+    brew tap Goles/battery
 
 After that you can just install battery (and keep it updated) using
 
